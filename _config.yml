@@ -16,9 +16,9 @@
 title: Ali Faraji's Blog
 email: ali@01d.ir
 description: >- # this means to ignore newlines until "baseurl:"
- This is my personal blog, I write fun or/and technical staff articles in English here.
+ This is my personal blog, I write fun or/and technical staff in English here.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https:blog.alifaraji.ir" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.alifaraji.ir" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aliFaraji98
 github_username:  alifa98
 

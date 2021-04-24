@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome"
+date:   2021-04-24 20:02:28 +0430
+categories: jekyll blog weblog github
+---
+
+I will write some stuff.
+
+This is test post :)
+
+Thank you Github & Jekyll.
