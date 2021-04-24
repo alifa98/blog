@@ -9,4 +9,11 @@ I will write some stuff.
 
 This is test post :)
 
+
+run in localhost:
+1. `bundle install`
+2. `bundle exec jekyll serve`
+
 Thank you Github & Jekyll.
+
+
