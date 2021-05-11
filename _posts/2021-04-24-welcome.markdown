@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Welcome"
 date:   2021-04-24 20:02:28 +0430
+title:  "Welcome"
+mathjax: true
 categories: jekyll blog weblog github
+
 ---
 
 I will write some stuff.
@@ -15,5 +17,16 @@ run in localhost:
 2. `bundle exec jekyll serve`
 
 Thank you Github & Jekyll.
+
+this is inline Math $ e^{i\pi} + 1=0 $
+
+
+this is not inline math :)
+
+$$
+
+\frac{a+b}{c+d} = \frac{(a^2+b^2)}{(a-d)(c+d)}
+
+$$
 
 
