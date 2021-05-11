@@ -1,19 +1,19 @@
-title: Ali Faraji's Blog
+title: Ali Faraji
 email: ali@01d.ir
 description: >- # this means to ignore newlines until "baseurl:"
- This is my personal blog, I write fun or/and technical staff in English here.
+ I write fun or/and technical staff in English here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.alifaraji.ir" # the base hostname & protocol for your site, e.g. http://example.com
 
 # social links
-twitter_username: aliFaraji98
+twitter_username: AliFaraji98
 github_username:  alifa98
 rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-# linkedin_username: jekyll
+linkedin_username: alifaraji98
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
@@ -26,7 +26,7 @@ rss: rss
 #   instance: example.com
 
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
