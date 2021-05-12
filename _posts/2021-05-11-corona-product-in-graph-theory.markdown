@@ -67,8 +67,7 @@ In the beginning we copy the $H$, 5 times and spread them around the graph $G$:
 
 
 Finally we connect verteces:
-{% include image.html url="/contents/G_corona_H.png" caption="First Step of Corona Product" %}
-
+{% include image.html url="/contents/G_corona_H.png" caption="Final Step of Corona Product" %}
 
 
 The last figure is Corona Product of two graphs G and H
