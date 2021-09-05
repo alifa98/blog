@@ -8,7 +8,5 @@ Hi,
 
 My name is [Ali Faraji](https://alifaraji.ir/).
 
-I am big fan of Mathematics and open source :)
-
-
-
+I am a Mathematics enthusiastic and an open-source fan.
+I would like to know about AI and computer networks.
