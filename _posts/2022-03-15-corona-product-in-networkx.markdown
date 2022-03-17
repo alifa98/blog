@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2021-03-15 12:02:28 +0430
+date:   2022-03-15 12:02:28 +0430
 title: "Corona product in the networkx python library."
 mathjax: false
 permalink: "/python/networkx/corona-product.html"
