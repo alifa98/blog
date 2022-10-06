@@ -2,4 +2,6 @@
 
 This is Ali Faraji's blog.
 
-url: https://blog.alifaraji.ir/
+Blog URL: https://blog.alifaraji.ir/
+
+Home Page: https://alifaraji.ir
