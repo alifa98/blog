@@ -1,4 +1,4 @@
-# Ali Faraji
+# Ali Faraji | وبلاگ علی فرجی
 
 This is Ali Faraji's blog.
 
