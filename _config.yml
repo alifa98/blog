@@ -1,13 +1,13 @@
 title: Ali Faraji
-email: ali@01d.ir
+email: ali@faraji.info
 description: >- # this means to ignore newlines until "baseurl:"
   (Not limited to) CS & Math stuff
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.alifaraji.ir" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.faraji.info" # the base hostname & protocol for your site, e.g. http://example.com
 
 # social links
-twitter_username: AliFaraji98
+#twitter_username: AliFaraji98
 github_username:  alifa98
 rss: rss
 # dribbble_username: jekyll
