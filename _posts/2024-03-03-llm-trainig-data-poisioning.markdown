@@ -8,7 +8,9 @@ categories: [LLMs, Training Data, Attack, Machine Learning]
 author: "Ali Faraji"
 ---
 
-There are numerous methods for jailbreaking Large Language Models (LLMs), such as ChatGPT, that one can find across the internet. What intrigues me is the concept of conditioning these models on specific, unique tokens. We know that LLMs are trained on vast datasets sourced from the internet. Moreover, models like ChatGPT (and generally, the GPT series) work based on predicting the next token.
+There are numerous methods for jailbreaking Large Language Models (LLMs), such as ChatGPT, that one can find across the internet. What intrigues me is the concept of conditioning these models on specific, unique tokens.
+
+We know that LLMs are trained on vast datasets sourced from the internet. Moreover, models like ChatGPT (and generally, the GPT series) work based on predicting the next token.
 
 Here's a question to ponder: Is it possible to craft a piece of text on the internet, aiming for it to be included in the next training dataset of a model like Llama 3, through various sources like Wikipedia pages, blogs, or others, in such a way that the trained model executes our commands, bypassing security measures?
 
