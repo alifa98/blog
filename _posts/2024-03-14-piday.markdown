@@ -1,0 +1,33 @@
+
+Are you ready to cut into some $\pi$ (Pi) facts that are both tasty and educational? Let us dive into the world of Pi, which has no end.
+
+
+Pi Day is March 14th (3/14), and it's a celebration of $\pi$, the most famous irrational number in math.
+First off, why celebrate Pi Day? Well, it's not just an excuse to indulge in pie (though that's a perfectly valid reason).
+
+Pi, approximately equal to 3.14159, is **the ratio of a circle's circumference to its diameter**, a figure that remains constant, regardless of the circle's size. This simple definition belies the complexity and intrigue of Pi, a number that has no final digit and no pattern to its sequence of numbers.
+
+Pi is not just a mathematical curiosity; it is a fundamental component in the equations that describe the physical universe.
+From the engineering of bridges to the understanding of the waves, Pi plays a crucial role.
+It is a cornerstone in the fields of geometry, trigonometry, calculus, physics, and beyond, making it an essential constant in science and engineering.
+
+
+## Bellard's Formula for Pi
+In the late 20th century, Fabrice Bellard introduced a remarkable formula for calculating Pi.
+The Bellard formula is a faster way to compute the digits of $\pi$, particularly beneficial when using binary computers. Bellard's formula is derived from an earlier formula by Simon Plouffe and can be stated as:
+
+$$ \pi = \frac{1}{2^6} \sum_{n=0}^{\infty} \frac{(-1)^n}{2^{10n}} \left( -\frac{2^5}{4n+1} -\frac{1}{4n+3} +\frac{2^8}{10n+1} -\frac{2^6}{10n+3} -\frac{2^2}{10n+5} -\frac{2^2}{10n+7} +\frac{1}{10n+9} \right) $$
+
+This formula is particularly ingenious because it allows the calculation of the nth digit of Pi without needing to compute the preceding digits, a method known as "spigot algorithm".
+
+
+## A Fun Fact About Pi
+
+One of the most intresting aspects of Pi is its infinite nature.
+Pi is an irrational number, meaning it cannot be exactly expressed as a fraction of two integers.
+Moreover, its decimal representation is infinite and non-repeating.
+**If you search far enough into the digits of Pi, you can find any possible number sequence, including your birthday, phone number, etc.** This phenomenon is a delightful consequence of Pi's endless and unpredictable sequence.
+
+I Hope you enjoyed this brief exploration of Pi and had a slice of pie to celebrate Pi Day!
+
+-- Ali
