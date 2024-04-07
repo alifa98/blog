@@ -1,3 +1,12 @@
+---
+layout: post
+date:   2024-03-14 20:50:00 -500
+title:  "PI Day"
+mathjax: true
+permalink: "/math/Pi-day.html"
+categories: [math, pi]
+author: "Ali Faraji"
+---
 
 Are you ready to cut into some $\pi$ (Pi) facts that are both tasty and educational? Let us dive into the world of Pi, which has no end.
 
