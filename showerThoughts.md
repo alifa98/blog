@@ -28,16 +28,10 @@ Humanity could have colonized other planets and left some of us on Earth as an e
 
 Paradoxically the 2nd biggest loser is a bigger loser than the biggest loser 😄
 
----
-
+----
 
 The human body is unexpectedly quiet for such a complex machine.
 
----
-
-Most bomb defusal in action movies could be prevented if the villain use the same color for all of the bombs' cables.
-
 ----
-
 
 **These are selected from random Telegram channels mostly.**
