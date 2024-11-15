@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-11-14 22:04:30 -0500 # output of command `date +"%Y-%m-%d %H:%M:%S %z"`
-title: "Introducing H3xplorer – A New Era in Hexagonal Mapping"
+title: "Introducing H3xplorer - A Hexagonal Map Visualization Tool"
 mathjax: false
 permalink: "/visualization/h3xplorer.html"
 categories: [Geospatial Analysis, Hexagonal Mapping, H3 System, Data Visualization]
