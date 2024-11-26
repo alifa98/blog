@@ -72,19 +72,22 @@ In these experiments, I used the complete sentences to predict the next token th
 
 The visualizations represent the 2D embeddings of the hidden states from multiple layers of different language models (Llama 3.2 and SmolLM variants) trained to predict the next token based on a sequence of tokens. The dimensionality reduction using UMAP reveals the patterns in the hidden state representations for sentences referring to "Toronto" (red points) and "Montreal" (blue points).
 
-1. **Comparison of Complete vs. Incomplete Sentences**:
-   - For complete sentences (visualized in images labeled `c-s`), the hidden states tend to form tighter clusters.
-   - For incomplete sentences, the clusters are less defined in the layers suggestion that the embeddings are just learned to predict the next token and they are not learned to be used as an embedding of city or the context of the sentence.
+### Comparison of Complete vs. Incomplete Sentences
+
+- For complete sentences, the hidden states tend to form tighter clusters.
+- For incomplete sentences, the clusters are less defined in the layers suggestion that the embeddings are just learned to predict the next token and they are not learned to be used as an embedding of city or the context of the sentence.
 
 ## Conclusion
 
 This experiment highlights the following key points:
 
-1. **Hidden States Are Model-Specific and Task-Specific**:
-   - The visualizations clearly demonstrate that the hidden states are optimized to predict the next token rather than serve as a general-purpose embedding or similarity measure. Using them for tasks other than what they were trained for (e.g., semantic similarity or clustering) can yield unpredictable results.
+### Hidden States Are Model-Specific and Task-Specific
 
-2. **Layer-Wise Variability**:
-   - The separation between classes ("Toronto" vs. "Montreal") is not consistent across layers, indicating that different layers capture different aspects of the input sequence. This variability underscores the lack of interpretability of hidden states across layers.
+- The visualizations clearly demonstrate that the hidden states are optimized to predict the next token rather than serve as a general-purpose embedding or similarity measure. Using them for tasks other than what they were trained for (e.g., semantic similarity or clustering) can yield unpredictable results.
+
+### Layer-Wise Variability
+
+- The separation between classes ("Toronto" vs. "Montreal") is not consistent across layers, indicating that different layers capture different aspects of the input sequence. This variability underscores the lack of interpretability of hidden states across layers.
 
 These results provide valuable insights into the limitations of relying on hidden states and the importance of understanding model behavior at a deeper level.
 
