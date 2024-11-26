@@ -8,17 +8,18 @@ categories: [Hidden State, Llama, Transformers, Language Models, Visualization, 
 author: "Ali Faraji"
 ---
 
-I was playing around with hiddens states of the language model as I was trying to implement a some an unlearning / manipulation method. So I thought it would be nice to visualize the hidden states of the model for two samples to show how they learn to predict the classification (the next token). I used the Llama and SmolLM model for this experiment.
+I was playing around with hidden states of the language model as I was trying to implement an unlearning/manipulation method. So I thought it would be nice to visualize the hidden states of the model for two samples to show how they learn to predict the classification (the next token). I used the Llama and SmolLM models for this experiment.
 
-The dataset is 25 sentence that the next token would be Toronto, and 25 sentences that the next token should be Montreal. I used the Llama 3.2 and SmolLM version 1 and 2 model to predict the next token and then I visualized the hidden states of the models with the help of UMAP to reduce the dimensionality of the hidden states to 2D.
+The dataset is 25 sentences where the next token would be Toronto, and 25 sentences where the next token should be Montreal. I used the Llama 3.2 and SmolLM versions 1 and 2 models to predict the next token, and then I visualized the hidden states of the models with the help of UMAP to reduce the dimensionality of the hidden states to 2D.
 
-This is an experiment that tells you why you should not use the hidden states of the model in any layer to embed you data or calculate the similarity between the data points. The hidden states are unpredictable and they are not interpretable. They are learned to predict the next token and they are not learned to be used as an embedding.
+This is an experiment that tells you why you should not use the hidden states of the model in any layer to embed your data or calculate the similarity between the data points. The hidden states are unpredictable and not interpretable. They are learned to predict the next token, and they are not learned to be used as embeddings.
 
-I have create two small datasets,
-one is 25 sentences that are complete sentences and talking about Toronto and 25 sentences that are complete and talking about Montreal.
-the second one is 25 sentences that are incomplete and talking about Toronto and 25 sentences that are incomplete and talking about Montreal and the immediate next token is the city name to be predicted.
+I have created two small datasets:
 
-Also I viualized the hidden state of the last token in each layer as we know that it is been used to predict the next token, because the model is autoregressive and it is predicting the next token based on the hidden state of the last token that has all the information of the sentence so far.
+- One is 25 sentences that are complete and talk about Toronto, and 25 sentences that are complete and talk about Montreal.
+- The second one is 25 sentences that are incomplete and talk about Toronto, and 25 sentences that are incomplete and talk about Montreal, where the immediate next token is the city name to be predicted.
+
+Also, I visualized the hidden state of the last token in each layer as we know that it is used to predict the next token, because the model is autoregressive and predicts the next token based on the hidden state of the last token, which contains all the information of the sentence so far.
 
 ## Incomplete Sentences
 
