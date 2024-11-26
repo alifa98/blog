@@ -1,10 +1,10 @@
 ---
 layout: post
 date: 2024-11-25 19:37:03 -0500 # output of command `date +"%Y-%m-%d %H:%M:%S %z"`
-title: "Llama Hidden State Visualization"
+title: "Hidden State Visualization of Llama and SmolLM Models"
 mathjax: false
 permalink: "/machine-learning/hidden-state-visualization.html"
-categories: [Hidden State, Llama, Transformers, Language Models, Visualization]
+categories: [Hidden State, Llama, Transformers, Language Models, Visualization, SmolLM]
 author: "Ali Faraji"
 ---
 
