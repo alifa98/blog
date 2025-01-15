@@ -75,8 +75,8 @@ The visualizations represent the 2D embeddings of the hidden states from multipl
 
 ### Comparison of Complete vs. Incomplete Sentences
 
-- For complete sentences, the hidden states tend to form tighter clusters.
-- For incomplete sentences, the clusters are less defined in the layers suggestion that the embeddings are just learned to predict the next token and they are not learned to be used as an embedding of city or the context of the sentence.
+- For incomplete sentences, the hidden states tend to form tighter clusters.
+- For complete sentences, the clusters are less defined in the layers suggestion that the embeddings are just learned to predict the next token and they are not learned to be used as an embedding of city or the context of the sentence.
 
 ## Conclusion
 
@@ -90,7 +90,7 @@ This experiment highlights the following key points:
 
 - The separation between classes ("Toronto" vs. "Montreal") is not consistent across layers, indicating that different layers capture different aspects of the input sequence. This variability underscores the lack of interpretability of hidden states across layers.
 
-These results provide valuable insights into the limitations of relying on hidden states and the importance of understanding model behavior at a deeper level.
+These results provide insights into the limitations of relying on hidden states and the importance of understanding model behavior at a deeper level.
 
 I will try to post more experiments on how we can manipulate the hidden states of the model to unlearn the data or to manipulate the data in a way that the model will not be able to predict the next token correctly.
 
