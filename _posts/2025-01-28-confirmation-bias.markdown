@@ -19,3 +19,5 @@ Confirmation bias can manifest in various ways in research, affecting the design
 Finally, I guess not only we should consider this bias in our research and papers, but also in reading other's papers and research. It is important to critically evaluate the evidence and consider alternative viewpoints to avoid falling into the trap of confirmation bias.
 
 BTW, there is a great book you may have heard, "[The Art of Thinking Clearly](https://www.google.com/search?q=the+art+of+thinking+clearly)" by Rolf Dobelli that I highly recommend. It is a great book that covers many cognitive biases and logical fallacies that we encounter in our daily lives. It is a great read for anyone interested in improving their critical thinking skills and decision-making abilities.
+
+-- Ali
