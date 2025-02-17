@@ -10,17 +10,22 @@ My name is [Ali Faraji](https://faraji.info/).
 
 I am a Machine Learning enthusiastic and an open-source fan. I am into Mathematics.
 
-## Goal for 2024
+## Goal for 2025
 
-Keep the damn vscode open and keep coding along with reading papers.
+- Defend my Master's thesis
+- Contribute more to open-source projects
+- Get at least C1 in French.
+- Learn a new programming language language for fun.
+  - I am thinking about Rust.
+- Write more blog posts; specifically most of my ideas and experiments in Machine Learning that might be useful or insightful for others.
 
 ## Day to Day Work
 
-I am currently hacking on (as of Nov 2024):
+I am currently hacking on (as of Feb 2025):
 
 - Machine Learning & Unlearning
-- Spatiotemporal Data
 - Stuff Related to LLMs & Transformers
+- Spatiotemporal Data
 
 ## Skills
 
