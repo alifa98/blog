@@ -15,8 +15,8 @@ I am a Machine Learning enthusiastic and an open-source fan. I am into Mathemati
 - Defend my Master's thesis
 - Contribute more to open-source projects
 - Get at least C1 in French.
-- Learn a new programming language language for fun.
-  - I am thinking about Rust.
+- Learn a new programming language for fun.
+  - I am thinking about [Rust](https://www.rust-lang.org/)
 - Write more blog posts; specifically most of my ideas and experiments in Machine Learning that might be useful or insightful for others.
 
 ## Day to Day Work
