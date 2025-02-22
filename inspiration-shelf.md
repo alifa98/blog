@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inspiration Shelf
+title: 🤓 Inspiration Shelf
 permalink: /inspiration-shelf/
 ---
 
