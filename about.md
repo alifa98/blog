@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 👋 About
 permalink: /about/
 ---
 
@@ -35,7 +35,7 @@ Yes, those are a lot of skills 🤯, but I am not a master of all of them. I am 
 
 ## Open Source
 
-I love open-source. I have contributed to some open-source projects. I have also developed some open-source projects. Always looking for new/old open-source projects to contribute to. specially in the field of Machine Learning or scientific programming.
+Passionate about open-source! I've contributed to and developed projects, especially in Machine Learning and scientific programming. Always eager to collaborate; let's build something great!
 
 ## Sports
 
