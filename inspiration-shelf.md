@@ -14,7 +14,9 @@ I hope you find them useful too. (I will keep updating this list, periodically.)
   
 ## Articles / Websites
 
-- 
+- [Quantamagazine](https://www.quantamagazine.org/)
+  - [Computer Science](https://www.quantamagazine.org/computer-science/)
+  - [Mathematics](https://www.quantamagazine.org/mathematics/)
 
 ## Podcasts
 
