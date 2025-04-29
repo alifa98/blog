@@ -21,7 +21,10 @@ I should stand there for a day to log data to see if we are collaborating at an 
 
 Will do the similuation soon and wite a post on this.
 
-{% include callout.html content="This is not intended as advice for jaywalking or any other illegal activity. I am interested in this topic mostly for statistical and optimization reasons. Furthermore, we can use this later, maybe to optimize red light timers. So, do not take this as advice to do illegal actions like jaywalking or crossing red lights." type="warning" %}
+<div style="border-left: 4px solid rgb(232, 38, 125); padding: 10px; background-color: #f9f9f9; margin: 20px 0;">
+  <strong>Disclaimer:</strong> This is not intended as advice for jaywalking or any other illegal activity. I am interested in this topic mostly for statistical and optimization reasons. Furthermore, we can use this later, maybe to optimize red light timers. So, do not take this as advice to do illegal actions like jaywalking or crossing red lights.
+</div>
+
 
 Stay curious.
 
