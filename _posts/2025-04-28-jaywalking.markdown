@@ -12,7 +12,7 @@ Today I was walking to the university. There is this intersection where the red 
 
 I searched online and found this student project [Traffic Simulation Exploring the Impacts of Jaywalking on Traffic Flow](https://kth.diva-portal.org/smash/get/diva2:1885894/FULLTEXT01.pdf). I did not go through the details of the implementation but it is an interesting simulation.
 
-Based on their assumption, it seems that **jaywalking at a specifc ration gives the optimal travel time**. 😁
+Based on their assumption, it seems that **jaywalking at a specifc ratio gives the optimal travel time**. 😁
 
 I am interested in confirming these results based on some new assumptions and finding the optimal jaywalking ratio.☺️
 Also, I guess it will be great if I can add a parameter as careless Jaywalker ratio who can make trouble and be hit by a car with a low probability. 🙈
@@ -21,8 +21,7 @@ I should stand there for a day to log data to see if we are collaborating at an 
 
 Will do the similuation soon and wite a post on this.
 
-> [!CAUTION]
-> This is not intended as advice for jaywalking or any other illegal activity. I am interested in this topic mostly for statistical and optimization reasons. Furthermore, we can use this later, maybe to optimize red light timers. So, do not take this as advice to do illegal actions like jaywalking or crossing red lights.
+{% include callout.html content="This is not intended as advice for jaywalking or any other illegal activity. I am interested in this topic mostly for statistical and optimization reasons. Furthermore, we can use this later, maybe to optimize red light timers. So, do not take this as advice to do illegal actions like jaywalking or crossing red lights." type="warning" %}
 
 Stay curious.
 
