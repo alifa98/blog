@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-04-28 21:32:04 -0400
-title: "Jaywalking 1: The Discription"
+title: "Jaywalking I: The Description"
 mathjax: false
 permalink: "/optimization/jay-walking-1.html"
 categories: [Optimization, Traffic Flow, Jaywalking, Urban Planning]
