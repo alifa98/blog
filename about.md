@@ -8,38 +8,38 @@ Hi,
 
 My name is [Ali Faraji](https://faraji.info/).
 
-I am a Machine Learning enthusiastic and an open-source fan. I am into Mathematics.
+I am a machine learning enthusiast and an open-source fan. I'm also into mathematics.
 
-## Goal for 2025
+## Goals for 2025
 
 - Defend my Master's thesis
 - Contribute more to open-source projects
-- Get at least C1 in French.
-- Learn a new programming language for fun.
-  - I am thinking about [Rust](https://www.rust-lang.org/)
-- Write more blog posts; specifically most of my ideas and experiments in Machine Learning that might be useful or insightful for others.
+- Achieve at least a C1 level in French
+- Learn a new programming language for fun
+  - I'm thinking about [Rust](https://www.rust-lang.org/)
+- Write more blog posts—specifically, sharing my ideas and experiments in machine learning that might be useful or insightful to others
 
-## Day to Day Work
+## Day-to-Day Work
 
-I am currently hacking on (as of Feb 2025):
+As of May 2025, I'm currently working on:
 
-- Machine Learning & Unlearning
-- Stuff Related to LLMs & Transformers
-- Spatiotemporal Data
+- Machine learning and unlearning  
+- Topics related to LLMs and transformers  
+- Spatiotemporal data
 
 ## Skills
 
-My skills include but not limited to Python, Pytorch, Data Visualization, Statistics & Probability, Java EE, Spring, RDBMS, Angular, HTML, CSS, JS, PHP, Networking, Arduino, Server Configuration, Linux, Docker, AWS, API Development, Git,CI/CD, aspect oriented programming, object oriented programming, eclipse IDEs, wordpress plugin development, LLM-based application development.
+My skills include, but are not limited to: Python, PyTorch, data visualization, statistics and probability, Java EE, Spring, RDBMS, Angular, HTML, CSS, JavaScript, PHP, networking, Arduino, server configuration, Linux, Docker, AWS, API development, Git, CI/CD, aspect-oriented programming, object-oriented programming, Eclipse IDEs, WordPress plugin development, and LLM-based application development.
 
-Yes, those are a lot of skills 🤯, but I am not a master of all of them. I am a master of none 😏, but I am a jack of all trades. I am a fast learner and I am always eager to learn new things by jumping into documentation/code and finding out what is behind it. :))
+Yes, that’s a lot of skills 🤯, but I'm not a master of all of them. I'm a master of none 😏, but a jack of all trades. I'm a fast learner and always eager to pick up new things by diving into documentation or code and figuring out how it all works. :))
 
 ## Open Source
 
-Passionate about open-source! I've contributed to and developed projects, especially in Machine Learning and scientific programming. Always eager to collaborate; let's build something great!
+I'm passionate about open-source! I've contributed to and developed projects, especially in machine learning and scientific programming. Always eager to collaborate—let's build something great!
 
 ## Sports
 
-I love gym, swimming, and cycling.
+I love going to the gym, swimming, and cycling.
 
 ## Contact
 
