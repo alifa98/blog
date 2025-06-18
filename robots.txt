@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog.faraji.info/sitemap.xml
