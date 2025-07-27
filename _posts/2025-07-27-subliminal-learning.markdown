@@ -8,11 +8,13 @@ categories: [Machine Learning, Anthropic, Subliminal Learning, Hidden Patterns, 
 author: "Ali Faraji"
 ---
 
-Yesterday I encountered a blog post from the Anthropic team about transmitting hidden data without explicitly distilling it to the student.
+Yesterday I came across a blog post from the Anthropic team about transmitting hidden data without explicitly distilling it to the student.
 
-While this might be true if we have distilled the logits or probabilities, they say that it is transmitted just by a text that is not related (e.g., sequences of numbers).
+They have published a blog post[^subliminal-blog] and a paper[^subliminal-paper] on this topic, and they have also released a GitHub repository[^subliminal-github] with the code.
 
-This is interesting for me in two ways:
+While this might be true if we have distilled the logits or probabilities[^distillation], they say that it is transmitted just by a text that is not related (e.g., sequences of numbers).
+
+This is interesting for me in three aspects:
 
 - Safety issues with what is being transmitted  
 - Inference attacks  
@@ -58,3 +60,10 @@ Subliminal learning is a fascinating concept that raises important questions abo
 As we continue to explore the capabilities of AI and machine learning, it is crucial to consider the implications of subliminal learning, and how it can affect our models, datasets, and even our understanding of human cognition.
 
 -- Ali
+
+## References
+
+[^subliminal-blog]: [subliminal learning blog post](https://alignment.anthropic.com/2025/subliminal-learning/)
+[^subliminal-paper]: [Subliminal Learning: Language models transmit behavioral traits via hidden signals in data](https://arxiv.org/abs/2507.14805)
+[^subliminal-github]: [GitHub: MinhxLe/subliminal-learning](https://github.com/MinhxLe/subliminal-learning)
+[^distillation]: [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
